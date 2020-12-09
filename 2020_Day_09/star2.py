@@ -41,9 +41,3 @@ values.sort()
 low = values[0]
 high = values[-1]
 print(f"Low: {low}, high: {high}, SUM: {low+high}")
-
-
-
-
-
-#print(f"PART 1: {sum(a <= d.count(c) <= b for a,b,c,d in data)}")
